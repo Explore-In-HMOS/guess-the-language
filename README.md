@@ -1,3 +1,5 @@
+> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS Index](https://github.com/Explore-In-HMOS/hmos-index).
+
 # Guess The Language
 
 `guess-the-language` is a HarmonyOS wearable quiz app where players choose a continent, identify languages under a countdown, and review their weekly score history.
